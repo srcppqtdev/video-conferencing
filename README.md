@@ -1,22 +1,12 @@
-[![ASP.NET Core](https://github.com/Anapher/Strive/actions/workflows/asp-net-core-test.yml/badge.svg)](https://github.com/Anapher/Strive/actions/workflows/asp-net-core-test.yml)
-[![Cypress](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/coci4n/develop&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/coci4n/runs)
-[![codecov](https://codecov.io/gh/Anapher/Strive/branch/develop/graph/badge.svg?token=G074V29MMN)](https://codecov.io/gh/Anapher/Strive)
-[![Maintainability](https://api.codeclimate.com/v1/badges/8b02320c4149952fe1c5/maintainability)](https://codeclimate.com/github/Anapher/Strive/maintainability)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 
 <br />
 <p align="center">
-  <h1 align="center">Strive</h1>
+  <h1 align="center">Video conferencing</h1>
 
   <p align="center">
     Open source video conference system
     <br />
     <br />
-    <a href="https://demo.openstrive.org/">View Demo</a>
-    ·
-    <a href="https://github.com/Anapher/Strive/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Anapher/Strive/issues">Request Feature</a>
   </p>
 </p>
 
@@ -93,7 +83,7 @@ https://user-images.githubusercontent.com/7737876/154677692-506e50aa-6b58-4ab7-b
 ### Running on localhost with Docker Compose and Traefik
 1. Clone the repo
    ```sh
-   git clone https://github.com/Anapher/Strive.git
+   git clone https://github.com/ulanbek-proj/video-conferencing
    ```
    
 2. Got to src directory
